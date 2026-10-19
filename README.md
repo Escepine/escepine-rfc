@@ -1,3 +1,6 @@
+http://escepine.vercel.app
+
+
 The Math That Kills AI Agents in Production
 
 96% step accuracy sounds safe. Run 20 steps in a chain, and your system reliability drops to 44%. This is not a model problem. This is an infrastructure problem.
